@@ -141,8 +141,11 @@ echo -ne $'\e[1;36mPROCESSING ------------          \r\e[0m'
 echo -e "$F"
 echo -ne '\n'
 
-wget -q https://raw.githubusercontent.com/AhmadSamiKhan/magento2-index/main/index1
-wget -q https://raw.githubusercontent.com/AhmadSamiKhan/magento2-index/main/index2
+#wget -q https://raw.githubusercontent.com/AhmadSamiKhan/magento2-index/main/index1
+#wget -q https://raw.githubusercontent.com/AhmadSamiKhan/magento2-index/main/index2
+
+wget -q https://raw.githubusercontent.com/platformops-cw/cw-automation-public/main/index1
+wget -q https://raw.githubusercontent.com/platformops-cw/cw-automation-public/main/index2
 
 clear
 
