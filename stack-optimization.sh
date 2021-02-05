@@ -89,7 +89,7 @@ then
  else
   read -p $'\e[0;31m The server is not fully Optimized. Do you wish to run the Optimizations script? [y/n] \n' answer
   	if [[ $answer = y ]] ; then
-  		curl -s  https://raw.githubusercontent.com/AhmadSamiKhan/SO/main/Changes.sh | bash
+  		curl -s  https://raw.githubusercontent.com/platformops-cw/cw-automation-scripts/main/so-settings.sh?token=ASID5WOQEPUF5DCTG74L3NDADVK3U | bash
 fi
 
 fi
