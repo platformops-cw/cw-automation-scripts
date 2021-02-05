@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #------AUTHOR: Ahmad Sami------#
 
 rm /home/master/mixed-content-report* 
