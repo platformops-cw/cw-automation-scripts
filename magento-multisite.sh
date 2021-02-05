@@ -1,4 +1,5 @@
 #!/bin/bash
+#------AUTHOR: Ahmad Sami----------#
 #------variables used------#
 clear
 
